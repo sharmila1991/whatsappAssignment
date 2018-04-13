@@ -1,0 +1,14 @@
+.bstart{
+	
+	border: 0.5px solid #ccffcc;
+	border-radius:50px;
+    background-color:#ccffcc;
+	color:black;
+}
+.bend{
+	
+	border: 0.5px solid #e6e6ff;
+	border-radius:50px;
+    background-color:#e6e6ff;
+	color:black;
+}
